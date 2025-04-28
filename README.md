@@ -1,1 +1,1 @@
-# cibelle
+# Este é um projeto pessoal e divertido que vai me ajudar a entender HTML e CSS. Ao menos é o objetivo. Cibelle a dona do Grimório é uma personagem de RPG que criei em uma das mesas que participei, pensei de unir programação com criação de mundos e história que são as coisas que mais gosto.
